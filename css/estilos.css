@@ -1,19 +1,32 @@
 body
 {
     text-align: center;
+<<<<<<< HEAD
 }
 
 #titulo
 {
     background-color: brown;
+=======
+    font-family: 'Times New Roman';
+>>>>>>> escritura
 }
 
 #autor
 {
+<<<<<<< HEAD
     text-align: right;
 }
 
 #hobbies
 {
     text-align: left;
+=======
+    font-style: italic;
+}
+
+#titulo
+{
+    background-color: deeppink;
+>>>>>>> escritura
 }
