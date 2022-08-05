@@ -1,0 +1,19 @@
+body
+{
+    text-align: center;
+}
+
+#titulo
+{
+    background-color: brown;
+}
+
+#autor
+{
+    text-align: right;
+}
+
+#hobbies
+{
+    text-align: left;
+}
